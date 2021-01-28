@@ -1,5 +1,6 @@
 ## Fabric.js
-
+<!-- english, simplified Chinese -->
+ English | [简体中文](./README.zh-CN.md)
 <!-- build/coverage status, climate -->
 
 [![Build Status](https://secure.travis-ci.org/fabricjs/fabric.js.svg?branch=master)](http://travis-ci.org/#!/kangax/fabric.js)
